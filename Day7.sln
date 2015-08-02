@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.Entities", "Task1\Tas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1.Console", "Task1.Console\Task1.Console.csproj", "{18155812-B5E8-4018-BE2D-D70FC101871B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.Lib", "Task2.Lib\Task2.Lib.csproj", "{345A0311-A94F-4BEF-888C-87100068D15A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2.Tests", "Task2.Tests\Task2.Tests.csproj", "{4F684E6A-3E06-4727-B6E9-158527D9C93E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{18155812-B5E8-4018-BE2D-D70FC101871B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18155812-B5E8-4018-BE2D-D70FC101871B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18155812-B5E8-4018-BE2D-D70FC101871B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345A0311-A94F-4BEF-888C-87100068D15A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345A0311-A94F-4BEF-888C-87100068D15A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345A0311-A94F-4BEF-888C-87100068D15A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345A0311-A94F-4BEF-888C-87100068D15A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F684E6A-3E06-4727-B6E9-158527D9C93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F684E6A-3E06-4727-B6E9-158527D9C93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F684E6A-3E06-4727-B6E9-158527D9C93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F684E6A-3E06-4727-B6E9-158527D9C93E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8A92F719-457E-4BFE-B061-2D091C961B63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{8A92F719-457E-4BFE-B061-2D091C961B63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A92F719-457E-4BFE-B061-2D091C961B63}.Release|Any CPU.ActiveCfg = Release|Any CPU
